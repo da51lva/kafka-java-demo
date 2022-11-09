@@ -1,2 +1,2 @@
-# kafka-java-demo
-Demo for using Kafka Java SDK
+# Kafka Kava Demo
+Demo for using the Kafka Java SDK
